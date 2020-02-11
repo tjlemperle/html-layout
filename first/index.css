@@ -43,7 +43,7 @@ table {
 }
 
 .top-header {
-    height: 20vh;
+    height: 15vh;
     background-color: darkslategray;
 }
 
@@ -61,7 +61,7 @@ table {
 
 
 .mid-content {
-    height: 70vh;
+    height: 75vh;
     min-height: 50vh;
     width: 82.99%;
     min-width: 50%;
@@ -84,7 +84,7 @@ table {
 }
 
 .footer-content {
-    height: 15vh;
+    height: 10vh;
     width: 100%;
     background-color: black;
 }
